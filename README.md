@@ -4,7 +4,7 @@ Welcome to my projects repository! Here, you'll find a collection of diverse pro
 
 ## Contents
 
-## Phishing Awareness Campaign
+## 1. Phishing Awareness Campaign
 
 This phishing awareness campaign is the culmination of my experience from the Mastercard Cybersecurity Virtual Experience Program on Forage in May 2024.
 -Link 
